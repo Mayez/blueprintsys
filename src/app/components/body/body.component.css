@@ -1,0 +1,39 @@
+.sidenav-container{
+    height: 100%;
+    overflow: hidden;
+}
+
+.sidenav{
+    width: 40%;
+    border: 0;
+}
+
+.card{
+    background-color: rgba(210,209,214,255);
+    margin: 5% 5% 5% 5%;
+    border-radius: 0%;
+}
+
+.mainCard{
+    height:50vh;
+    margin: 5% 5% 5% 5%;
+    border-radius: 0%;
+    overflow:hidden;
+}
+  
+mat-list-option[aria-selected="true"] {
+    background: rgba(249,245,244,255);
+    margin: 5% 0 5% 0;
+}
+
+mat-list-option[aria-selected="false"] {
+    background: rgba(210,209,214,255);
+    width: 95%;
+    margin: 5% 0 5% 0;
+}
+
+form  { display: table;      }
+p     { display: table-row;  }
+label { display: table-cell; }
+input { display: table-cell; margin: 5% 5% 5% 5%; }
+select{ display: table-cell;}
