@@ -1,5 +1,14 @@
 # Blueprintsys
 
+# How it looks 
+![image](https://user-images.githubusercontent.com/31999530/118377870-f764bf80-b59d-11eb-9a60-3c09ed03436b.png)
+
+# Whats Not Finished:
+-Position dropdown has no functionality
+-Add New, Update and Delete Has No Functionality
+-It is not responsive yet
+-Program does not check to see if json exists
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
 
 ## Development server
